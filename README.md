@@ -30,7 +30,9 @@ Rafael Felipe Sandroni Dias             9883795
 
 
 
-Descrição de qual problema o software de vocês resolverá
+Descrição de qual problema o software de vocês resolverá:
+
+
 Gestão de projetos sociais de ONGs, com controle de projetos, participantes etc. 
 
 Link do github:
