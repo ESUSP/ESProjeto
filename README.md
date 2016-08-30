@@ -1,7 +1,7 @@
 # Projeto da Disciplina de Tópicos de Engenharia de Software
 
 “CodeClimate badge” mostrando o GPA do projeto
-"!https://codeclimate.com/github/lcmcs/ESProjeto/badges/gpa.svg!":https://codeclimate.com/github/lcmcs/ESProjeto
+[![Code Climate](https://codeclimate.com/github/lcmcs/ESProjeto/badges/gpa.svg)](https://codeclimate.com/github/lcmcs/ESProjeto)
 
 “Travis CI badge” mostrando o status do build no branch master
 
