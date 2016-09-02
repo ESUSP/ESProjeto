@@ -2,23 +2,23 @@
 
 [![Code Climate](https://codeclimate.com/github/lcmcs/ESProjeto/badges/gpa.svg)](https://codeclimate.com/github/lcmcs/ESProjeto)  [![Build Status](https://travis-ci.org/lcmcs/ESProjeto.svg?branch=master)](https://travis-ci.org/lcmcs/ESProjeto)
 
-## HerokuApp:
+## HerokuApp
 https://esprojeto.herokuapp.com/
 
-## Pivotal Tracker: 
+## Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1790871
 
-## Integrantes do projeto:
+## Membros
 
-+ Mayra Satiko Hosokawa                   6792815
++ Mayra Satiko Hosokawa
 
-+ Ligia Cassia Moreno de Castro Santos    9564580
++ Ligia Cassia Moreno de Castro Santos
 
-+ Ricardo Takazu Hatae                    10124293
++ Ricardo Takazu Hatae
 
-+ Rafael Felipe Sandroni Dias             9883795
++ Rafael Felipe Sandroni Dias
 
-+ Jean Adam Calixto do Vale               5745302
++ Jean Adam Calixto do Vale 
 
-+ David Silva Martins de Andrade          --
++ David Silva Martins de Andrade
 
