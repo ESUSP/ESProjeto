@@ -3,7 +3,7 @@
 [![Code Climate](https://codeclimate.com/github/lcmcs/ESProjeto/badges/gpa.svg)](https://codeclimate.com/github/lcmcs/ESProjeto)  [![Build Status](https://travis-ci.org/lcmcs/ESProjeto.svg?branch=master)](https://travis-ci.org/lcmcs/ESProjeto)
 
 ## HerokuApp:
-https://esprojeto1.herokuapp.com/
+https://esprojeto.herokuapp.com/
 
 ## Pivotal Tracker: 
 https://www.pivotaltracker.com/n/projects/1790871
