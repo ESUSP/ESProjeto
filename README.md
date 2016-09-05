@@ -1,6 +1,6 @@
 # Gestão de projetos sociais em ONGs (Em definição)
 
-[![Code Climate](https://codeclimate.com/github/lcmcs/ESProjeto/badges/gpa.svg)](https://codeclimate.com/github/lcmcs/ESProjeto)  [![Build Status](https://travis-ci.org/lcmcs/ESProjeto.svg?branch=master)](https://travis-ci.org/lcmcs/ESProjeto)
+[![Code Climate](https://codeclimate.com/github/lcmcs/ESProjeto/badges/gpa.svg)](https://codeclimate.com/github/lcmcs/ESProjeto)  [![Build Status](https://travis-ci.org/ESUSP/ESProjeto.svg?branch=master)](https://travis-ci.org/ESUSP/ESProjeto)
 
 ## HerokuApp
 https://esprojeto.herokuapp.com/
